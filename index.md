@@ -7,12 +7,12 @@ description:   
 
 ![Banner](/assets/img/BG.png)
 
-## Lost Animals: A Wholesome Farming Adventure
+## Let them cook
 
-  Lost Animals is the working title for a charming and engaging single player video game that allows players to experience the joys of running their own virtual farm. Set in a colourful and whimsical world full of secrets
+  We have a few projects on slow-cook. Am looking forward to updating this page with more details closer to relase of our first game :D
 
 ```js
-  Full release announcment after Hiatus
+  *  Full release announcment very soon! *
 ```
 
 * * * 
@@ -20,11 +20,11 @@ description:   
   
 ### Check out our socials!
 
-| Social       | Ready?            | Status|
+| Social       |            | Status|
 |:-------------|:-----------------:|:------|
 | Steam                                                               |    | TBA                             |
-| [YouTube](https://www.youtube.com/channel/UC0XdaCA-zPShdqIptghatgg) |    | Soon!                           |
-| [Twitter](https://www.twitter.com/OliverMakesGame)                  |    | Soon!                           |
+| [YouTube](https://www.youtube.com/channel/UC0XdaCA-zPShdqIptghatgg) |    | Placeholder                           |
+| [Twitter](https://www.twitter.com/OliverMakesGame)                  |    | Placeholder                           |
 | Discord                                                             |    | Eventually!                     |
 
 * * *
