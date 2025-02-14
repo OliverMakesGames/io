@@ -31,7 +31,7 @@ description:   
 
 ### About us:
 
-       A passionate team with a profound ambition: to create exceptional games. Fueled by memes and lap cats we stand poised to hopefully maybe revolutionize the indie scene and explore the very depths of gaming itself.
+       A passionate team with a profound ambition: to create exceptional games. Fuelled by memes and lap cats we stand poised to hopefully maybe revolutionise the indie scene and explore the very depths of gaming itself.
 
 <br />
 
